@@ -1,0 +1,11 @@
+[project]
+name = "minbpe"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ipykernel>=7.0.1",
+    "regex>=2025.9.18",
+    "tiktoken>=0.12.0",
+]
